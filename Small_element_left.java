@@ -1,5 +1,4 @@
 
-
 public class Small_element_left
 {
 	public static void main(String[] args) {
