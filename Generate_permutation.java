@@ -22,12 +22,11 @@ class Generate_permutation{
         
     }
     public static void main(String args[]){
-        Scanner sc = new Scanner(System.in);
         int t = 1;
         
         while(t!= 0){
         int n = 3;
-        int res = 0;
+        // int res = 0;
         
         int arr[] = {1,2,3};
         int ans[] = new int[n];
