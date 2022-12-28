@@ -52,6 +52,6 @@ public class Follow_the_knight{
         //board[row-1][col-1] = 1;
         board = followTheNight(board,row-1,col-1,n);
         System.out.println(count(board));
-        //print(board);
+        
     }
 }
