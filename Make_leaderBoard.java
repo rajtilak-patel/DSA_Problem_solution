@@ -1,3 +1,20 @@
+// 6
+// rancho 45
+// chatur 32
+// raju 30
+// farhan 28
+// virus 32
+// joy 45
+
+// outputs
+/*
+1 joy
+1 rancho
+3 chatur
+3 virus
+5 raju
+6 farhan
+*/
 
 import java.util.*;
 public class Make_leaderBoard{
