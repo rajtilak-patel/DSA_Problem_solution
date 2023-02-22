@@ -1,5 +1,15 @@
 
 //Enter code here
+
+/*
+ * inputs 
+ * 
+ * 
+ * 
+ * 
+ * 
+ */
+
 import java.util.*;
 public class Odd_subset{
     public static int solve(int arr[],List<Integer>output,int index,List<List<Integer>> ans){
