@@ -1,4 +1,7 @@
+// inputs 5
+// 14 7 8 2 4
 
+// output indexNum - 1
 import java.util.*;
 public class BasicMaths{
     public static void main(String args[]){
